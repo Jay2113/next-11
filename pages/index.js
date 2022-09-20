@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js</a> from AWS Amplify!
+          Welcome to <a href="https://nextjs.org">Next.js</a> from AWS Amplify for the Sev 2!
         </h1>
 
         <p className={styles.description}>
