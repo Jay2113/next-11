@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          This is Build 5 for the beta app!
+          Hello World from the beta app which is running SSRv2!
         </h1>
 
         <p className={styles.description}>
